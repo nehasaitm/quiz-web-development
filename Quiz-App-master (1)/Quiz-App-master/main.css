@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background-image: url('https://i.imgur.com/f9QZTxJ.jpg');
+  background-image: url('./images/download.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
